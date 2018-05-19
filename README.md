@@ -5,7 +5,7 @@ A list of questions to ask during an interview
 -
 
 ### Web
-- 
+- Describe in detail what is happening right after you have entered url in an address bar
 
 
 ## Soft skills
