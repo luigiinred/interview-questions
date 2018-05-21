@@ -11,6 +11,7 @@ A list of questions to ask during an interview
 ## Soft skills
 - What do you like to do for fun?
 - Can you tell me about a time when you had to ask for help?
+- Can you tell me about a time when you worked as part of a group?
 
 
 ## Problems
