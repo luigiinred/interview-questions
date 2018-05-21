@@ -12,6 +12,7 @@ A list of questions to ask during an interview
 - What do you like to do for fun?
 - Can you tell me about a time when you had to ask for help?
 - Can you tell me about a time when you worked as part of a group?
+- Give an example of when you had to work with someone who was difficult to get along with. How did you handle interactions with that person?
 
 
 ## Problems
