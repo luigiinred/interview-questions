@@ -26,4 +26,4 @@ A list of questions to ask during an interview
 ## Whiteboard Problems
 - Given a tic-tac-toe board, design a function to determine whether any player is winning in the current round, given the current board state.
 - You are provided with a function Rand5(). This function returns perfectly random (equal distribution) integers between 1 and 5. Provide the function Rand7(), which uses Rand5() to produce perfectly random integers between 1 and 7.
-
+- Write a function isPrime() that takes integer n and determine whether n is a prime number or not
